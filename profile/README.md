@@ -1,5 +1,7 @@
 ## 🌟 Who we are?
 
+<img src="../researchaiplus.jpg" alt="Research AI+" width="400"/>
+
 **Research AI+**, a non-profit community for young technologists—now 600+ members globally including AI researchers, engineers, devs and builders—across academia, big tech, and startups. 🚀
 
 ### Our Story
