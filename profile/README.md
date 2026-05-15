@@ -41,7 +41,7 @@ Open-Bento-Me is built and maintained by Research AI+. Not just users—contribu
 
 | Platform | Link | What You'll Find |
 |----------|------|------------------|
-| 💬 Wechat group | <img src="../wechat group 0515.jpg" alt="Wechat QR" width="120"/> | Join 600+ AI Researchers, Engineers, Research Founders and AI Builders. Daily discussions, news, collaborations, fellow connections, community private events. |
+| 💬 Wechat group | <img src="../wechat group 0515.jpg" alt="Wechat QR" width="120"/> | Join 800+ AI Researchers, Engineers, Research Founders and AI Builders. Daily discussions, news, collaborations, fellow connections, community private events. |
 | 💡 Wechat subscription | <img src="../wechat-subscription.png" alt="Wechat subscription QR" width="120"/> | Deep, source-driven reads on frontier AI, from top-conference papers to industry reports, with both researchers' and engineers' focus on real world impact. Also updates, events and community highlights. |
 | 📚 Rednote | <img src="../rednote.png" alt="Rednote QR" width="120"/> | Deep, source-driven reads on frontier AI, from top-conference papers to industry reports, with both researchers' and engineers' focus on real world impact. Also updates, events and community highlights. |
 | 📧 Newsletter (Substack) | [Subscribe](https://researchaiplusweekly.substack.com/) | Technical insights, community spotlights |
