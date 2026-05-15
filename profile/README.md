@@ -47,4 +47,4 @@ Open-Bento-Me is built and maintained by Research AI+. Not just users—contribu
 | 📧 Newsletter (Substack) | [Subscribe](https://researchaiplusweekly.substack.com/) | Technical insights, community spotlights |
 | 🎤 Interviews | Research: Side B (included in Wechat Subscription / Substack Newsletter / Redenote) | Interviews with emerging researchers, engineers and technical founders |
 | 🌐 Events | [Event 1](https://x.com/Xander_zzzzz/status/1973298346531102755?s=20)<br/>[Event 2](https://mp.weixin.qq.com/s/9DpgcyvHe_Js1Lp8Am9saQ) | Salons, conference meetups, workshops, hackathons, talks, parties... More events recap on Wechat Subscription / Redenote |
-| 🐦 X Founders | [@Xander_zzzzz](https://x.com/Xander_zzzzz)<br/>[@Liz_LizLi](https://x.com/Liz_LizLi) | Updates and community highlights; AI Research paper, Engineering; Engineering + Start-up + Open Source + AI Production |
+| 🐦 Founders | [@Xander_zzzzz](https://x.com/Xander_zzzzz)<br/>[@Liz_LizLi](https://x.com/Liz_LizLi) | Updates and community highlights; AI Research paper, Engineering; Engineering + Start-up + Open Source + AI Production |
